@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : EVQ-P7J01P.LibPkg
+
+Section : C:\Users\masic\Desktop\PCB\Libraries\EVQP7J01P\EVQ-P7J01P.lia
+    Section : PCB Library - EVQ-P7J01P.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token EVQ-P7J01P On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 189
+            Warning - 1 : Skipping Token 2 On Line 192
+            Warning - 1 : Skipping Token 1 On Line 194
+            Warning - 1 : Skipping Token 1 On Line 196
+            Warning - 1 : Skipping Token 2 On Line 198
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SW_EVQ-P7J01P][Primary] associated with PCAD Component [EVQ-P7J01P] has been renamed to PCB FootPrint [*SW_EVQ-P7J01P_EVQ-P7J01P(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - EVQ-P7J01P.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token 2 On Line 192
+            Warning - 1 : Skipping Token 1 On Line 194
+            Warning - 1 : Skipping Token 1 On Line 196
+            Warning - 1 : Skipping Token 2 On Line 198
+        EndSection
+
+        Section : Generating SCH Library - EVQ-P7J01P.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SW_EVQ-P7J01P][Primary] associated with PCAD Component [EVQ-P7J01P] has been renamed to PCB FootPrint [*SW_EVQ-P7J01P_EVQ-P7J01P(Primary)].
+        EndSection
+    EndSection
+EndSection

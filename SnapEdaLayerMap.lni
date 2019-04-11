@@ -1,0 +1,15 @@
+[LayerMap]
+LayerName0=1
+PCBLayer0=TopLayer
+LayerName1=2
+PCBLayer1=BottomLayer
+LayerName2=4
+PCBLayer2=TopSolder
+LayerName3=6
+PCBLayer3=TopOverlay
+LayerName4=8
+PCBLayer4=TopPaste
+LayerName5=20
+PCBLayer5=Mechanical13
+LayerName6=21
+PCBLayer6=Mechanical15
